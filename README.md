@@ -1,9 +1,12 @@
 # IA2020
 Curso de Inteligencia Artificial 2020
+Sessión 1
 
-Dia 1
+Sessión 2
 
-Dia 2 
+Sessión 3
 
-Dia 3
+Sessión 4
+
+Sessión 5
 https://youtu.be/FWLnroFzyVY
