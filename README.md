@@ -15,3 +15,6 @@ https://youtu.be/2ssMUSoO61M
 
 Sessión 5
 https://youtu.be/FWLnroFzyVY
+
+Sesión 6
+https://youtu.be/NOVtlS7QNxk
