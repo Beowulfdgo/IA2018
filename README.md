@@ -18,3 +18,6 @@ https://youtu.be/FWLnroFzyVY
 
 Sesión 6
 https://youtu.be/NOVtlS7QNxk
+
+Sesión 7
+https://youtu.be/fE280dunU9Q
