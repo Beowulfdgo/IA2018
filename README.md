@@ -21,3 +21,9 @@ https://youtu.be/NOVtlS7QNxk
 
 Sesión 7
 https://youtu.be/fE280dunU9Q
+
+Sesión 8
+https://youtu.be/0WZbMtDpc7Q
+
+Sesión 9
+https://youtu.be/JL92Ow1zRjo
