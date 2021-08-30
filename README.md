@@ -42,7 +42,7 @@ https://youtu.be/fE280dunU9Q
 Sesión 8
 https://youtu.be/0WZbMtDpc7Q
 
-Sesión 9
+Sesión 9(IA  Ejercicio Customer Churn Model.txt)
 https://youtu.be/JL92Ow1zRjo
 
 Sesión 10 (KNN cancer pecho)
