@@ -1,5 +1,5 @@
 # IA2020
-Curso de Inteligencia Artificial 2020
+Curso de Inteligencia Artificial 2021
 
 
 Sessión 1
@@ -47,10 +47,24 @@ https://youtu.be/JL92Ow1zRjo
 
 Sesión 10 (KNN cancer pecho)
 https://youtu.be/lizuJ4iXUTM
+https://github.com/Beowulfdgo/IA2018/blob/master/T-9-1-1%20KNN.ipynb
 
-t.ly/QyXC
 
 Sesión 11 (Ambiente mínimo para Anaconda Tensor Flow )
 https://youtu.be/oOtPdAwmYww
+https://github.com/Beowulfdgo/IA2018/blob/master/Entorno%20TensorFlow%20IA.ipynb
 
-t.ly/DLQK
+Sesión 12 (Data Cleaning)
+https://youtu.be/vmEKfs9Et2A
+
+
+Sesión 13 (IA Bayes)
+https://youtu.be/vmEKfs9Et2A
+
+Sesión 14 (Exportar Archivos JSON)
+https://youtu.be/-lkLRqFyEfs
+
+Sesión 15 (Ejercicio de Netflix)
+https://youtu.be/NOVtlS7QNxk
+
+
