@@ -1,4 +1,4 @@
-# IA2020
+# IA2021
 Curso de Inteligencia Artificial 2021
 
 
@@ -69,4 +69,6 @@ https://youtu.be/NOVtlS7QNxk
 https://github.com/Beowulfdgo/IA2018/blob/master/Dia3%20Series%20versus%201-column%20DataFrame.ipynb
 
 
-
+Sesión 16 (IA Filtering ,DataFrames)
+https://youtu.be/FWLnroFzyVY
+https://github.com/Beowulfdgo/IA2018/blob/master/Dia3%20Series%20versus%201-column%20DataFrame.ipynb
