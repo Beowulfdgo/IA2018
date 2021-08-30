@@ -27,7 +27,7 @@ Junio	205	60.0	55.0
 
 
 
-Sessión 4
+Sessión 4 (Ejercicio Votaciones)
 https://youtu.be/2ssMUSoO61M
 
 Sessión 5
@@ -66,5 +66,7 @@ https://youtu.be/-lkLRqFyEfs
 
 Sesión 15 (Ejercicio de Netflix)
 https://youtu.be/NOVtlS7QNxk
+https://github.com/Beowulfdgo/IA2018/blob/master/Dia3%20Series%20versus%201-column%20DataFrame.ipynb
+
 
 
