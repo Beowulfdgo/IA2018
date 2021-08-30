@@ -47,3 +47,10 @@ https://youtu.be/JL92Ow1zRjo
 
 Sesión 10 (KNN cancer pecho)
 https://youtu.be/lizuJ4iXUTM
+
+t.ly/QyXC
+
+Sesión 11 (Ambiente mínimo para Anaconda Tensor Flow )
+https://youtu.be/oOtPdAwmYww
+
+t.ly/DLQK
