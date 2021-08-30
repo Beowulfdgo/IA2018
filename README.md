@@ -8,9 +8,9 @@ Sessión 2
 https://youtu.be/oyGgE4cb1OI
 Instalación minima requerida para el curso
 
-Sessión 3
+Sessión 3 (Utilización de Pandas con el  archivo sales.scv)
 https://youtu.be/WhqmSmG3H9Y
-Utilización de Pandas con el  archivo sales.scv
+
 month huevos	sal	jamon
 
 Enero	47	12.0	17.0
@@ -44,3 +44,6 @@ https://youtu.be/0WZbMtDpc7Q
 
 Sesión 9
 https://youtu.be/JL92Ow1zRjo
+
+Sesión 10 (KNN cancer pecho)
+https://youtu.be/lizuJ4iXUTM
