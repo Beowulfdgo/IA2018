@@ -72,3 +72,13 @@ https://github.com/Beowulfdgo/IA2018/blob/master/Dia3%20Series%20versus%201-colu
 Sesión 16 (IA Filtering ,DataFrames)
 https://youtu.be/FWLnroFzyVY
 https://github.com/Beowulfdgo/IA2018/blob/master/Dia3%20Series%20versus%201-column%20DataFrame.ipynb
+
+Proyectos (Desarrollados por Alumnos)
+https://youtu.be/E2xShjozKQ4
+La aplicación fue creada en la plataforma de Google llamada App Inventor 2, dicha aplicación se creó en esta plataforma por los siguientes motivos, App inventor permite crear aplicaciones de manera visual, a lo que me refiero con esto es que esta plataforma brinda un entorno grafico para el diseño de la interfaz, además de que también brinda un entrono grafico para la lógica de la aplicación, ya que la lógica de la App se realiza mediante ensamblar bloques de instrucciones, a continuación se verá una imagen con la interfaz gráfica de una pantalla de la App y los bloques necesarios para el funcionamiento de dicha pantalla.
+
+by 
+Osiel Chávez Flores
+Rubén Gómez Barrientos
+https://github.com/Beowulfdgo/IA2015
+
