@@ -40,8 +40,10 @@ Sesión 12 (Data Cleaning)
 https://youtu.be/vmEKfs9Et2A
 
 
-Sesión 13 (IA Bayes)
-https://youtu.be/vmEKfs9Et2A
+Sesión 13 (Ejercicio Teorema de Bayes)
+Ejercicio Clasificador de Inmobiliaria para decidir si rentar o comprar
+https://youtu.be/jcarytDkM0k
+https://github.com/Beowulfdgo/IA2018/blob/master/Teorema%20de%20Bayes%20Ejercicio.ipynb
 
 Sesión 14 (Exportar Archivos JSON)
 https://youtu.be/-lkLRqFyEfs
@@ -51,7 +53,7 @@ https://youtu.be/NOVtlS7QNxk
 https://github.com/Beowulfdgo/IA2018/blob/master/Dia3%20Series%20versus%201-column%20DataFrame.ipynb
 
 
-Sesión 16 (IA Filtering ,DataFrames)
+Sesión 17 (IA Filtering ,DataFrames)
 https://youtu.be/FWLnroFzyVY
 https://github.com/Beowulfdgo/IA2018/blob/master/Dia3%20Series%20versus%201-column%20DataFrame.ipynb
 
