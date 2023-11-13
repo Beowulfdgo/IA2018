@@ -1,4 +1,4 @@
-# Curso de Inteligencia Artificial 2021
+# Curso de Inteligencia Artificial 2021-2023
 
 Sessión 1
 
