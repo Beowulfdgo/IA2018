@@ -60,6 +60,8 @@ https://github.com/Beowulfdgo/IA2018/blob/master/Dia3%20Series%20versus%201-colu
 Proyectos (Desarrollados por Alumnos)
 https://youtu.be/E2xShjozKQ4
 
+
+![image](https://github.com/Beowulfdgo/IA2018/assets/1202553/78a845c9-e86a-471b-a542-cae4f1bafe1e)
 Proyectos (Reconocimiento de posturas)
 https://youtu.be/gXqBiVXPbDc
 https://github.com/Beowulfdgo/IA2018/blob/master/poses_video.py
