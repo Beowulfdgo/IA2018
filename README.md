@@ -61,6 +61,7 @@ Proyectos (Desarrollados por Alumnos)
 https://youtu.be/E2xShjozKQ4
 
 Proyectos (Reconocimiento de posturas)
+https://youtu.be/gXqBiVXPbDc
 https://github.com/Beowulfdgo/IA2018/blob/master/poses_video.py
 https://github.com/Beowulfdgo/IA2018/blob/master/poses.py
 
