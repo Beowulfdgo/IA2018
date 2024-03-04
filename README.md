@@ -74,6 +74,12 @@ https://github.com/Beowulfdgo/IA2018/blob/master/PROYECTO.py
 
 ![image](https://github.com/Beowulfdgo/IA2018/blob/master/celula4.png)
 
+Proyectos (Face Detection)
+https://youtu.be/e8bVNNE0HOE
+
+https://github.com/Beowulfdgo/IA2018/blob/master/probancoface.py
+
+![image](https://github.com/Beowulfdgo/IA2018/blob/master/images/portada.jpeg)
 Proyectos (detección de Círculos)
 https://youtu.be/cVGK48v3zI8
 
