@@ -65,13 +65,19 @@ https://youtu.be/gXqBiVXPbDc
 https://github.com/Beowulfdgo/IA2018/blob/master/poses_video.py
 https://github.com/Beowulfdgo/IA2018/blob/master/poses.py
 
+![image](https://github.com/Beowulfdgo/IA2018/blob/master/mina.jpg)
+
+Proyectos (detección de Objetos)
+https://youtu.be/DsN49sERNa4
+
+https://github.com/Beowulfdgo/IA2018/blob/master/PROYECTO.py
+
 ![image](https://github.com/Beowulfdgo/IA2018/blob/master/celula4.png)
 
 Proyectos (detección de Círculos)
 https://youtu.be/cVGK48v3zI8
 
 https://github.com/Beowulfdgo/IA2018/blob/master/DETECCION%20DE%20CIRCULOS.py
-
 
 ![image](https://github.com/Beowulfdgo/IA2018/assets/1202553/6556a392-920c-41e3-882d-104ee838566e)
 Proyectos (Robot controlado por arduino)
