@@ -64,7 +64,7 @@ https://youtu.be/gXqBiVXPbDc
 https://github.com/Beowulfdgo/IA2018/blob/master/poses_video.py
 https://github.com/Beowulfdgo/IA2018/blob/master/poses.py
 
-![image](https://github.com/Beowulfdgo/IA2018/assets/1202553/78a845c9-e86a-471b-a542-cae4f1bafe1e)
+![image](https://github.com/Beowulfdgo/IA2018/blob/master/celula4.png)
 Proyectos (detección de Círculos)
 https://youtu.be/cVGK48v3zI8
 https://github.com/Beowulfdgo/IA2018/blob/master/DETECCION%20DE%20CIRCULOS.py
