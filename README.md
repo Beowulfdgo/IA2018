@@ -60,18 +60,23 @@ https://github.com/Beowulfdgo/IA2018/blob/master/Dia3%20Series%20versus%201-colu
 
 ![image](https://github.com/Beowulfdgo/IA2018/assets/1202553/78a845c9-e86a-471b-a542-cae4f1bafe1e)
 Proyectos (Reconocimiento de posturas)
+
 https://youtu.be/gXqBiVXPbDc
 https://github.com/Beowulfdgo/IA2018/blob/master/poses_video.py
 https://github.com/Beowulfdgo/IA2018/blob/master/poses.py
 
 ![image](https://github.com/Beowulfdgo/IA2018/blob/master/celula4.png)
+
 Proyectos (detección de Círculos)
 https://youtu.be/cVGK48v3zI8
+
 https://github.com/Beowulfdgo/IA2018/blob/master/DETECCION%20DE%20CIRCULOS.py
+
 
 ![image](https://github.com/Beowulfdgo/IA2018/assets/1202553/6556a392-920c-41e3-882d-104ee838566e)
 Proyectos (Robot controlado por arduino)
 https://youtu.be/E2xShjozKQ4
+
 La aplicación fue creada en la plataforma de Google llamada App Inventor 2, dicha aplicación se creó en esta plataforma por los siguientes motivos, App inventor permite crear aplicaciones de manera visual, a lo que me refiero con esto es que esta plataforma brinda un entorno grafico para el diseño de la interfaz, además de que también brinda un entrono grafico para la lógica de la aplicación, ya que la lógica de la App se realiza mediante ensamblar bloques de instrucciones, a continuación se verá una imagen con la interfaz gráfica de una pantalla de la App y los bloques necesarios para el funcionamiento de dicha pantalla.
 
 by 
